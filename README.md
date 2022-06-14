@@ -1,4 +1,4 @@
-# YATAS - Yet Another Tailwind Apline Starter
+# YATAS - Minimal 11ty starter project with Tailwind Apline Starter
 
 Minimal 11ty starter project that build css with tailwindcss cli and [esbuild](https://esbuild.github.io/) for javascript.
 
